@@ -16,5 +16,5 @@ To set up your own instance:
   Requires Python 3.6, discord.py, aiohttp
  
 If you want to use my instance:
-  Click this link: https://discordapp.com/oauth2/authorize?client_id=544997787713142796&scope=bot&permissions=8
-  *This has admin permissions because I'm lazy. If you don't want that, feel free to change the permissions to whatever you     wish. Simply copy the link, and change the 8 on the end to whatever you want to grant it.
+  Click this link: https://discordapp.com/oauth2/authorize?client_id=544997787713142796&scope=bot&permissions=8 
+  *This has admin permissions because I'm lazy. If you don't want that, feel free to change the permissions to whatever you     wish. Simply copy the link, and change the 8 on the end to whatever you want to grant it.*
